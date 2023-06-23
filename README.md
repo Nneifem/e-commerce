@@ -11,7 +11,7 @@ In order to get this to run properly you will need to install Node js. v16, expr
 
 ## Usage
 
-Link to video demo: https://drive.google.com/file/d/1Anz9gulQULR2fHciU2TBPiHLpLom7-iA/view?usp=drive_link
+Link to video demo: https://drive.google.com/file/d/1mI6A72ooEjwKho_QARcivwGnp36S6wj4/view?usp=drive_link
 
 Before running the server, you will need to source the sql file by typing in the intergrate terminal mysql -u root -p and your password, then run source db/schema.sql. Exit out of mysql and then you can run your seeds file by entering npm run seeds and finally set to run the server by typing node server and usee Insomnia to look, create, update, or delete any of the categories, tags, or products.
 
